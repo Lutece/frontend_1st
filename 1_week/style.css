@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: 'HelveticaNeue-LIGHT', 'APPLE SD Gothic NEO', sans-serif;
+    font-size : 20px;
+    line-height: 38px;
+}
+
+.col{
+    width:100%;
+    height:100px;
+    color:#fff;
+    text-align: center;
+    float: left;
+}
+
+.col-12 {
+    background-color: #2bdcb3;
+}
+
+.col-8 {
+    background-color: #27c6a1;
+    width:66.66%;
+}
+
+.col-6 {
+    background-color: #27b28d;
+    width:50%;
+}
+
+.col-4 {
+    background-color: #27c09b;
+    width:33.33%;
+}
+
+.col-3 {
+    background-color: #249a78;
+    width:25%;
+}
+
+.col-2 {
+    background-color: #1c7155;
+    width:16.666%;
+}
+
+.col-1 {
+    background-color: #18624a;
+    width:8.333%;
+}
+
+div div{
+    line-height:100px;
+    width:100%;
+    height:100%;
+}
